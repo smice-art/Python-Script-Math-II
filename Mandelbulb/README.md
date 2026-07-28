@@ -11,7 +11,7 @@ The Mandelbulb is a three-dimensional fractal. It was developed in 2009 by Danie
 ![Preview Image](images/screen.jpg)
 
 ## Documentation
-the script is easy to handle. In the top of the script you find a short set of parameter with a short description.
+the script is easy to handle. In the top of the script you find a short set of parameter with a short description. Also there is *.blend File with a basic preview (Version 4.3.2)
 
 ## Release Notes
 
