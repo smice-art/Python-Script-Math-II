@@ -1,4 +1,4 @@
-![Banner](../images/scripts.jpg)
+![Banner](../Images/scripts.jpg)
 
 # Project Overview: Mandelbulb Generator
 The project is a custom Blender 3D Python script generate mandelbulb objects.It could be the base of a future add-onn. 
