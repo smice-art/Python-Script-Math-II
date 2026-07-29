@@ -13,3 +13,4 @@ Here is the table of Blender Scripts with a small preview:
 | :--- | :--- | :--- |
 | **[MANDELBULB](./Mandelbulb/)** | The Mandelbulb is a three-dimensional fractal. | <img src="Images/1.jpg" width="150"> |
 | **[WENTE](./WenteTorus/)** | A Wente torus is a special 3D shape. | <img src="Images/2.jpg" width="150"> |
+| **[VARIOUSTORI](./VariousTori/)** | this is collection of 10 eperimental tori. | <img src="Images/3.jpg" width="150"> |
