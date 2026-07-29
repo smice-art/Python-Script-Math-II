@@ -11,4 +11,5 @@ Here is the table of Blender Scripts with a small preview:
 
 | Object | Description | Preview |
 | :--- | :--- | :--- |
-| **[MANDELBULB](./Mandelbulb/)** | The Mandelbulb is a three-dimensional fractal . | <img src="Images/1.jpg" width="150"> |
+| **[MANDELBULB](./Mandelbulb/)** | The Mandelbulb is a three-dimensional fractal. | <img src="Images/1.jpg" width="150"> |
+| **[WENTE](./WenteTorus/)** | A Wente torus is a special 3D shape. | <img src="Images/2.jpg" width="150"> |
