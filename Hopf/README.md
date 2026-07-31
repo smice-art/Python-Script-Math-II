@@ -1,6 +1,6 @@
 ![Banner](../Images/scripts.jpg)
 
-# Project Overview: 4D Knot
+# Project Overview: Hopf Fibration
 The project is a custom Blender 3D Python script that generates the Hopf fibration.
 
 ## Background
