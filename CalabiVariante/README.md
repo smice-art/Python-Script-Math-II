@@ -1,6 +1,6 @@
 ![Banner](../Images/scripts.jpg)
 
-# Project Overview: Wente Tori
+# Project Overview: Calabi-Yau
 The project is a custom Blender 3D Python script that generates a Variation of Calabi-Yau Surface.
 
 # Calabi-Yau
