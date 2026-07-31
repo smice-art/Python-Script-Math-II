@@ -19,4 +19,4 @@ Here is the table of Blender Scripts with a small preview:
 | **[CALABI](./CalabiVariante/)** | A variant of Clabi Yau 3D shape. | <img src="Images/6.jpg" width="150"> |
 | **[SQUARETORUS](./SquareTorus/)** | A experimental Square Willmore torus. | <img src="Images/7.png" width="150"> |
 | **[HOPFFIBRATION](./Hopf/)** | A script to generate Hopf Fibration. | <img src="Images/x1.jpg" width="150"> |
-| **[BRAIDED](./Braided/)** | A variant of Clabi Yau 3D shape. | <img src="Images/x1.jpg" width="150"> |
+| **[BRAIDED](./Braided/)** | A variant of Clabi Yau 3D shape. | <img src="Images/x2.jpg" width="150"> |
